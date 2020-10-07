@@ -1,3 +1,13 @@
+/*********************************************************************************
+* WEB422 – Assignment 2
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy.
+* No part of this assignment has been copied manually or electronically from any other source
+* (including web sites) or distributed to other students.
+*
+* Name: Jay Shah Student ID: 145543179 Date: 07/10/2020
+* Heroku Link: https://still-gorge-63646.herokuapp.com/
+*
+********************************************************************************/
 let saleData = [];
 let page = 1;
 const perPage = 10;
